@@ -1,0 +1,17 @@
+# setting email user
+pakai email yang didaftarkan di git
+
+git config --global user.email 'masukkan emailmu'
+
+#configurasi user
+git config --global user.name 'user nama anda'
+
+
+#membuat connection dari local ke git
+git init
+
+#adding file
+git add <sebutkan namafile>
+git add .
+
+#commit (membuat message)
